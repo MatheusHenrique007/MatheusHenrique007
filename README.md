@@ -21,7 +21,7 @@ Welcome to my professional GitHub profile! I am a passionate developer from Braz
   <a href="https://www.linkedin.com/in/matheus-henrique-barros-cardoso-999a3261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:matheushbc07@gmail.com" target="_blank">
+  <a href="mailto:matheushenriquebarroscardoso@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -39,11 +39,6 @@ Welcome to my professional GitHub profile! I am a passionate developer from Braz
 
 ### 🚀 Featured Projects
 > *Recruiter Note: Here are the top backend projects where I put my software engineering and Node.js knowledge into practice:*
-
-* **[Project Name]** - Brief 1-sentence description of the API or system functionality. *Tech stack: Node.js, JavaScript.*
-* **[Project Name]** - Brief 1-sentence description of the service. *Tech stack: Node.js, JavaScript, AI Integration.*
-
----
 
 ### 📊 Performance & Core Metrics
 
