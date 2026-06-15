@@ -1,22 +1,38 @@
+<div align="center">
+
+# Matheus Henrique
+### 💻 Backend Developer & Software Engineering Student
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=200&section=header&text=Matheus%20Henrique&fontSize=50" alt="Matheus Henrique">
+  <a href="https://www.linkedin.com/in/matheus-henrique-barros-cardoso-999a3261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:matheushbc07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-# Backend Developer | JavaScript & AI Enthusiast
+---
 
-Welcome to my professional GitHub profile! I am a passionate developer from Brazil, focused on building robust, efficient, and scalable **backend systems** using the JavaScript ecosystem, while exploring the future of technology through AI integrations.
+#### 🌐 About Me
+*Based in Brazil, I specialize in building robust server-side structures and exploring scalable backend logic with JavaScript. Currently focusing on systems architecture and modern AI integration workflows.*
 
 ---
 
-### 📊 Professional Overview
-* 💼 **Current Role:** Software Engineering Intern at **RTI Sistemas**, applying logic and architecture patterns in real-world server scenarios.
-* 🎓 **Education:** * Bachelor's Degree in **Software Engineering** at **UNICIVE** *(In Progress)*.
-  * Technologist Degree in **Systems Analysis and Development** at **SENAI** *(Graduated)*.
-* 🚀 **Current Focus:** Deep diving into **Backend Development** with JavaScript, mastering **Node.js**, and building architectures integrated with **Artificial Intelligence**.
+### 📊 Professional Background
+
+| 💼 Professional Experience | 🎓 Academic Education |
+| :--- | :--- |
+| **Software Engineering Intern** <br> 🏛️ *RTI Sistemas* <br> ⚡ *Building server-side logic and real-world system architecture.* | **B.S. in Software Engineering** <br> 🏛️ *UNICIVE (In Progress)* <br><br> **Systems Analysis & Development** <br> 🏛️ *SENAI (Graduated)* |
 
 ---
 
-### 🌐 Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/matheus-henrique-barros-cardoso-999a3261/" target="_blank">
-    <img src="
+### 🛠️ Core Tech Stack
+
+```javascript
+const developer = {
+  runtime:   ["Node.js"],
+  language:  ["JavaScript (ES6+)"],
+  tooling:   ["Git", "GitHub"],
+  specialty: ["Backend Systems", "AI Workflows & Prompts"]
+};
