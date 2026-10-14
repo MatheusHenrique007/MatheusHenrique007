@@ -20,13 +20,13 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 
 </td>
 <td width="35%" align="center">
-  <img src="assets/shh.png" width="220" alt="shh">
+  <img src="assets/shh.png" width="100%" alt="shh">
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="divider">
+  <img src="https://raw.githubusercontent.com/MatheusHenrique007/MatheusHenrique007/pacman-output/pacman.svg?v=1" alt="Pac-Man contribution graph">
 </p>
 
 <table>
