@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Ol%C3%A1!&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=Eu%20sou%20o%20Matheus%20Henrique&descAlignY=65&descSize=20" alt="Matheus Henrique">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Hello!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=I'm%20Matheus%20Henrique&descAlignY=72&descSize=18" alt="Matheus Henrique">
 </p>
 
 <p align="center">
