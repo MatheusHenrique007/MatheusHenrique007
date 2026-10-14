@@ -8,7 +8,18 @@
   </a>
 </p>
 
-Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar. Os repositórios aqui são projetos que fui construindo pra aprender na prática.
+<table>
+<tr>
+<td width="70%">
+
+Olá! Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar. Os repositórios aqui são projetos que fui construindo pra aprender na prática.
+
+</td>
+<td width="30%">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="150" alt="coding gif">
+</td>
+</tr>
+</table>
 
 ### 🎓 Formação
 * Graduação em **Engenharia de Software** — UNICIVE *(em andamento)*
