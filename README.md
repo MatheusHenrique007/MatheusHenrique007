@@ -20,7 +20,7 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 
 </td>
 <td width="35%" align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220" alt="coding gif">
+  <img src="assets/shh.png" width="220" alt="shh">
 </td>
 </tr>
 </table>
