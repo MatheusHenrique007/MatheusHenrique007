@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=200&section=header&text=Matheus%20Henrique&fontSize=50" alt="Matheus Henrique">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Matheus%20Henrique&fontSize=50&fontColor=FFFFFF&animation=fadeIn" alt="Matheus Henrique">
 </p>
 
 # Matheus Henrique
@@ -47,6 +47,6 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique007&layout=compact&theme=dracula" alt="Top Languages" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusHenrique007&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique007&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%">
 </p>
