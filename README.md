@@ -66,5 +66,5 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatheusHenrique007&color=6366F1&style=flat-square&label=Visitas+ao+perfil" alt="Profile views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusHenrique007.MatheusHenrique007&left_color=gray&right_color=indigo" alt="Profile views">
 </p>
