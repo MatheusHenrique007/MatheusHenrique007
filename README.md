@@ -58,7 +58,7 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusHenrique007/MatheusHenrique007/output/github-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/MatheusHenrique007/MatheusHenrique007/output/github-snake.svg?v=2" alt="Snake animation">
 </p>
 
 <p align="center">
