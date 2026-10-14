@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Matheus%20Henrique&fontSize=50&fontColor=FFFFFF&animation=fadeIn" alt="Matheus Henrique">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Hello,%20World!&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=I'm%20Matheus%20Henrique&descAlignY=65&descSize=20" alt="Matheus Henrique">
 </p>
 
 <p align="center">
@@ -10,24 +10,42 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="65%" valign="middle">
 
-Olá! Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar. Os repositórios aqui são projetos que fui construindo pra aprender na prática.
+Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar. Os repositórios aqui são projetos que fui construindo pra aprender na prática.
+
+**🎓 Formação**
+* Graduação em Engenharia de Software — UNICIVE *(em andamento)*
+* Tecnólogo em Análise e Desenvolvimento de Sistemas — SENAI *(concluído)*
 
 </td>
-<td width="30%">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="150" alt="coding gif">
+<td width="35%" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220" alt="coding gif">
 </td>
 </tr>
 </table>
 
-### 🎓 Formação
-* Graduação em **Engenharia de Software** — UNICIVE *(em andamento)*
-* Tecnólogo em **Análise e Desenvolvimento de Sistemas** — SENAI *(concluído)*
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="divider">
+</p>
 
----
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### 🌐 Connect with me
+### 🛠️ Tecnologias
+
+**Mais familiar:**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github&theme=dark" alt="Stack principal">
+</p>
+
+**Aprendendo agora:**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,react,postgres&theme=dark" alt="Em aprendizado">
+</p>
+
+### 🌐 Conecte-se comigo
 <p>
   <a href="https://www.linkedin.com/in/matheus-henrique-barros-cardoso-999a3261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -37,36 +55,23 @@ Olá! Gosto de entender como as coisas funcionam por baixo dos panos antes de s�
   </a>
 </p>
 
----
+</td>
+<td width="45%" valign="top">
 
-### 🛠️ Tecnologias
+### 📊 Estatísticas
 
-**Mais familiar:**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusHenrique007&theme=dracula&hide_border=true" alt="GitHub Streak" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique007&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="100%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github&theme=dark" alt="Stack principal">
-</p>
-
-**Aprendendo agora:**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,react,postgres&theme=dark" alt="Em aprendizado">
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📌 Projeto em destaque
 
 **[spotify-organizer](https://github.com/MatheusHenrique007/spotify-organizer)** — organizador de playlists do Spotify: detecta duplicadas, monta um plano de mudanças e só executa depois de revisão, com verificação real contra a API em vez de confiar cegamente na resposta. Node.js + React, 205 testes.
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusHenrique007&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique007&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%">
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatheusHenrique007/MatheusHenrique007/output/github-snake.svg?v=2" alt="Snake animation">
