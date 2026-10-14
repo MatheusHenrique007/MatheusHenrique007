@@ -10,20 +10,20 @@
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="60%" valign="middle">
 
 Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar. Os repositórios aqui são projetos que fui construindo pra aprender na prática.
 
-**🎓 Formação**
-* Graduação em Engenharia de Software — UNICIVE *(em andamento)*
-* Tecnólogo em Análise e Desenvolvimento de Sistemas — SENAI *(concluído)*
-
 </td>
-<td width="35%" align="center">
+<td width="40%" align="center">
   <img src="assets/shh.png" width="100%" alt="shh">
 </td>
 </tr>
 </table>
+
+**🎓 Formação**
+* Graduação em Engenharia de Software — UNICIVE *(em andamento)*
+* Tecnólogo em Análise e Desenvolvimento de Sistemas — SENAI *(concluído)*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatheusHenrique007/MatheusHenrique007/pacman-output/pacman.svg?v=1" alt="Pac-Man contribution graph">
