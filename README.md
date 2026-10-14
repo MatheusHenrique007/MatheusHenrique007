@@ -2,17 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=200&section=header&text=Matheus%20Henrique&fontSize=50" alt="Matheus Henrique">
 </p>
 
-# Backend Developer | JavaScript & AI Enthusiast
+# Matheus Henrique
 
-Welcome to my professional GitHub profile! I am a passionate developer from Brazil, focused on building robust, efficient, and scalable **backend systems** using the JavaScript ecosystem, while exploring the future of technology through AI integrations.
+Estudando desenvolvimento de software — JavaScript, Node.js, TypeScript, Python, banco de dados e um pouco de IA pelo caminho.
 
----
+Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar. Os repositórios aqui são projetos que fui construindo pra aprender na prática.
 
-### 📊 Professional Overview
-* 💼 **Current Role:** Software Engineering Intern at **RTI Sistemas**, applying logic and architecture patterns in real-world server scenarios.
-* 🎓 **Education:** * Bachelor's Degree in **Software Engineering** at **UNICIVE** *(In Progress)*.
-  * Technologist Degree in **Systems Analysis and Development** at **SENAI** *(Graduated)*.
-* 🚀 **Current Focus:** Deep diving into **Backend Development** with JavaScript, mastering **Node.js**, and building architectures integrated with **Artificial Intelligence**.
+### 🎓 Formação
+* Graduação em **Engenharia de Software** — UNICIVE *(em andamento)*
+* Tecnólogo em **Análise e Desenvolvimento de Sistemas** — SENAI *(concluído)*
 
 ---
 
@@ -28,15 +26,25 @@ Welcome to my professional GitHub profile! I am a passionate developer from Braz
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Tecnologias
 
-| Backend & Runtimes | Languages & Essentials | Version Control & Tools |
-| :--- | :--- | :--- |
-| ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
-| | | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
+---
 
-### 📊 Performance & Core Metrics
+### 📌 Projeto em destaque
+
+**[spotify-organizer](https://github.com/MatheusHenrique007/spotify-organizer)** — organizador de playlists do Spotify: detecta duplicadas, monta um plano de mudanças e só executa depois de revisão, com verificação real contra a API em vez de confiar cegamente na resposta. Node.js + React, 205 testes.
+
+---
+
+### 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
