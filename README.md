@@ -16,9 +16,9 @@
 
 Os repositórios aqui são projetos que fui construindo pra aprender na prática.
 
-* 📍 Maringá, PR
-* 💻 Estudando JS, Node.js, TypeScript, Python & IA
-* 🚀 Projeto em destaque: [spotify-organizer](https://github.com/MatheusHenrique007/spotify-organizer)
+📍 Maringá, PR<br>
+💻 Estudando JS, Node.js, TypeScript, Python & IA<br>
+🚀 Projeto em destaque: <a href="https://github.com/MatheusHenrique007/spotify-organizer">spotify-organizer</a>
 
 </td>
 <td width="40%" align="center">
