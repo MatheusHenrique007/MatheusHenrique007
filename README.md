@@ -58,6 +58,10 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/MatheusHenrique007/MatheusHenrique007/output/github-snake.svg" alt="Snake animation">
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer" alt="footer">
 </p>
 
