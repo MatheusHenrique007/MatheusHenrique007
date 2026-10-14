@@ -74,10 +74,6 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 **[spotify-organizer](https://github.com/MatheusHenrique007/spotify-organizer)** — organizador de playlists do Spotify: detecta duplicadas, monta um plano de mudanças e só executa depois de revisão, com verificação real contra a API em vez de confiar cegamente na resposta. Node.js + React, 205 testes.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusHenrique007/MatheusHenrique007/output/github-snake.svg?v=2" alt="Snake animation">
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer" alt="footer">
 </p>
 
