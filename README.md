@@ -21,13 +21,15 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 </tr>
 </table>
 
-**🎓 Formação**
+### 🎓 Formação
 * Graduação em Engenharia de Software — UNICIVE *(em andamento)*
 * Tecnólogo em Análise e Desenvolvimento de Sistemas — SENAI *(concluído)*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatheusHenrique007/MatheusHenrique007/pacman-output/pacman.svg?v=1" alt="Pac-Man contribution graph">
 </p>
+
+---
 
 <table>
 <tr>
@@ -72,6 +74,12 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 ### 📌 Projeto em destaque
 
 **[spotify-organizer](https://github.com/MatheusHenrique007/spotify-organizer)** — organizador de playlists do Spotify: detecta duplicadas, monta um plano de mudanças e só executa depois de revisão, com verificação real contra a API em vez de confiar cegamente na resposta. Node.js + React, 205 testes.
+
+<p>
+  <img src="https://img.shields.io/github/languages/top/MatheusHenrique007/spotify-organizer?style=flat-square&color=6366F1" alt="Linguagem principal">
+  <img src="https://img.shields.io/github/license/MatheusHenrique007/spotify-organizer?style=flat-square&color=6366F1" alt="Licença">
+  <img src="https://img.shields.io/github/stars/MatheusHenrique007/spotify-organizer?style=flat-square&color=6366F1" alt="Estrelas">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer" alt="footer">
