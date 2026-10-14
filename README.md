@@ -12,7 +12,13 @@
 <tr>
 <td width="60%" valign="middle">
 
-Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar. Os repositórios aqui são projetos que fui construindo pra aprender na prática.
+**Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar.**
+
+Os repositórios aqui são projetos que fui construindo pra aprender na prática.
+
+📍 Maringá, PR
+💻 Estudando JS, Node.js, TypeScript, Python & IA
+🚀 Projeto em destaque: [spotify-organizer](https://github.com/MatheusHenrique007/spotify-organizer)
 
 </td>
 <td width="40%" align="center">
