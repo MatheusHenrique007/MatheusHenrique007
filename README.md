@@ -30,8 +30,16 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 
 ### 🛠️ Tecnologias
 
+**Mais familiar:**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,postgres,git,github&theme=dark" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github&theme=dark" alt="Stack principal">
+</p>
+
+**Aprendendo agora:**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,react,postgres&theme=dark" alt="Em aprendizado">
 </p>
 
 ---
@@ -51,4 +59,8 @@ Gosto de entender como as coisas funcionam por baixo dos panos antes de só usar
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer" alt="footer">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatheusHenrique007&color=6366F1&style=flat-square&label=Visitas+ao+perfil" alt="Profile views">
 </p>
